@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=kishan4139&style=for-the-badge)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Web+Developer;I+am+a+Android+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Front-End+Developer;I+am+a+Android+Developer;)](https://git.io/typing-svg)
 
 
 
