@@ -41,7 +41,7 @@
     
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kishan4139&theme=highcontrast&show_icons=true&count_private=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=kishan4139&theme=highcontrast)](https://git.io/streak-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan4139&theme=highcontrast) [![Leetcode Stats](https://leetcard.jacoblin.cool/kishan4139)](https://leetcode.com/kishan4139)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan4139&theme=highcontrast) [![Leetcode Stats](https://leetcard.jacoblin.cool/kishan4139)](https://leetcode.com/kishan_4139)
 
 <!-- [![@kishan's Holopin board](https://holopin.me/kishan4139)](https://holopin.io/@kishan4139) -->
 
